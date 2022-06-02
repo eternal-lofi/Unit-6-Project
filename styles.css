@@ -1,0 +1,162 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color:black;
+}
+
+.title{
+    font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+.decision-1{
+    display:none;
+}
+
+.message-1{
+    font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+    
+}
+
+.ending-1{
+    display:none;
+    font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+}
+
+.result-1{
+     display:none;
+   
+}
+    
+
+.resultmes-1{
+     font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+}
+
+.decision-2{
+ display:none;
+}
+
+.message-2{
+     font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+}
+
+.result2-1{
+    display:none;
+}
+.resultmes2-1{
+     font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:yellow;
+}
+
+.resultmes2-2{
+      
+      font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:green;
+}
+
+.result2-2{
+  display:none;
+}
+
+.resultmes2-2{
+      color:red;
+      font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:red;
+}
+
+.postresult2-1{
+    display:none;
+}
+
+.postresultmes{
+   
+      font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:green;
+}
+    
+.maxoverdrive{
+    display:none;
+}
+
+.earth{
+    display:none;
+    font-size: 50px;
+    background-color:black;
+    font-weight: 100;
+    padding: 0 20px;
+    border-style:double;
+    border-color:green;
+}
+    
+    
